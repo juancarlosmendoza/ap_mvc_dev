@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<items>
+  <item Text="Home" NavigateUrl="home" />
+  <item Text="usuario" NavigateUrl="usuarios"  />
+  <item Text="libro" NavigateUrl="libro"  />
+  <item Text="biblioteca" NavigateUrl="biblioteca"  />
+</items>
